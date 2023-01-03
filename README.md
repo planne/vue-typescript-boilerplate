@@ -20,3 +20,8 @@ Followed vuejs.org [Quick start](https://vuejs.org/guide/quick-start.html#creati
 
 - Add rules in `.prettierrc.json`
 - Update `.eslintrc.cjs` to fix malfunctioning linter in `.ts` and `.vue` files
+- Allow importing `.vue` file from `.ts`.
+```typescript
+/* env.d.ts */
+declare module '*.vue';
+```
