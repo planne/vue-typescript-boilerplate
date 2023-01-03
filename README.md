@@ -1,1 +1,17 @@
 # vue-typescript-boilerplate
+
+Followed vuejs.org [Quick start](https://vuejs.org/guide/quick-start.html#creating-a-vue-application) page for creating the project.
+
+### Setup for this boilerplate
+
+```console
+✔ Project name: vue-project
+✔ Add TypeScript? Yes
+✔ Add JSX Support? Yes
+✔ Add Vue Router for Single Page Application development? Yes
+✔ Add Pinia for state management? No
+✔ Add Vitest for Unit testing? No
+✔ Add Cypress for both Unit and End-to-End testing? No
+✔ Add ESLint for code quality? Yes
+✔ Add Prettier for code formatting? Yes
+```
