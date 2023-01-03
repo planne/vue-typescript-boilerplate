@@ -3,5 +3,7 @@
     "semi": true,
     "singleQuote": true,
     "trailingComma": "none",
-    "endOfLine": "auto"
+    "endOfLine": "auto",
+    "htmlWhitespaceSensitivity": "ignore",
+    "multiline": "never"
 }
