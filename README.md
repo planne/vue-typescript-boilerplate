@@ -15,3 +15,8 @@ Followed vuejs.org [Quick start](https://vuejs.org/guide/quick-start.html#creati
 ✔ Add ESLint for code quality? Yes
 ✔ Add Prettier for code formatting? Yes
 ```
+
+### Adjustments after creation
+
+- Add rules in `.prettierrc.json`
+- Update `.eslintrc.cjs` to fix malfunctioning linter in `.ts` and `.vue` files
